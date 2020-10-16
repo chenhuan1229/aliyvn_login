@@ -1,0 +1,2 @@
+# Referenced at G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\build\intermediates\merged_manifests\debug\AndroidManifest.xml:21
+-keep class com.aliqin.mytel.DemoApplication { <init>(); }

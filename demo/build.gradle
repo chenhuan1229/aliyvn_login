@@ -1,0 +1,71 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+        vectorDrawables.useSupportLibrary = true
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    
+
+    signingConfigs{
+        debug{
+            keyAlias 'androiddebugkey'
+            keyPassword 'android'
+            storeFile file('sig-adaptation/debug/debug.keystore')
+            storePassword 'android'
+            v1SigningEnabled true
+            v2SigningEnabled true
+        }
+
+        
+    }
+
+    buildTypes {
+        release {
+            debuggable false
+            minifyEnabled true
+            proguardFile file('proguard-rules.pro')
+            zipAlignEnabled false
+            multiDexEnabled true
+            
+        }
+
+        debug{
+            minifyEnabled false
+            proguardFile file('proguard-rules.pro')
+            zipAlignEnabled false
+            multiDexEnabled true
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    implementation(name:'alicomphonenumberauthsdk-log-online-release', ext:'aar')
+    //集成crash组件
+    implementation(name:'crashshield-release', ext:'aar')
+    //环境检测
+    implementation(name:'operation-release', ext:'aar')
+
+    implementation 'com.alibaba:fastjson:1.2.70'
+    implementation 'com.ucweb.wpk:crashsdk:3.2.2.2'
+    implementation 'com.alibaba:fastjson:1.2.70'
+
+    debugImplementation ("com.squareup.leakcanary:leakcanary-android:2.4") {
+        exclude group: 'com.android.support'
+    }
+    implementation 'com.github.bumptech.glide:glide:4.9.0'
+}

@@ -1,0 +1,348 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a86b91a1f6cc9922f83f3945217158b6\leakcanary-android-2.4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\888\.gradle\caches\transforms-2\files-2.1\5d48e51bc97ba8657eabe5d8ea43411b\multidex-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0cdf82a0b5673c06e4c99214b3f0921f\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0be8ac9c669ca43ba2dbd9e15aa86d41\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [:alicomphonenumberauthsdk-log-online-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\9ffed9cd743d8e6bfc31291861748955\alicomphonenumberauthsdk-log-online-release\AndroidManifest.xml:2:1-16:12
+MERGED from [:crashshield-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\5002e10d435a5955dc9f81716564b1a7\crashshield-release\AndroidManifest.xml:2:1-14:12
+MERGED from [:operation-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\08b1fead0fe6c830f82ebde766dd3c1c\operation-release\AndroidManifest.xml:2:1-17:12
+MERGED from [com.ucweb.wpk:crashsdk:3.2.2.2] C:\Users\888\.gradle\caches\transforms-2\files-2.1\d5ef024eb8eb1415c23a6d9ad759a39e\crashsdk-3.2.2.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\b4fcf06f6b9f779f6c9a7ea99dbf10be\glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:17:1-75:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\89b72b090f1de322401e85355ece21ca\leakcanary-object-watcher-android-androidx-2.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\fe0a8c11188792d715ad8d6ca1aa5222\leakcanary-object-watcher-android-support-fragments-2.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\672f71e6507f883d1f09895100a41f57\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:2:1-15:12
+MERGED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a548167e34776d1d111cd3a4f59c7b75\plumber-android-2.4\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\ce0e94777a572c155dae5576fd0fe8c2\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\4c4811b5ef6dc5e976d98609b035e43f\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\e403f59865783db2d1cd00fefe861ac3\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\4ef67621d97da07958166ef80ea8a2e2\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\cf563e5e101f8a565825eae0de9b4200\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0acf24f2ff597dcffaf8b2af7821f8ec\gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\14f32e59bfb41237fda3f005ba4b7226\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0df9a8828126323eff8aa0a10b68140b\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\49bb1424736ce212db233f6a03c8fa05\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\80a88dae8353adc11fba685d87eecd7a\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\2c30710b90705ce63946384115511537\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:3:5-31
+	android:versionName
+		INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:6:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:24:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:8:5-62:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a86b91a1f6cc9922f83f3945217158b6\leakcanary-android-2.4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a86b91a1f6cc9922f83f3945217158b6\leakcanary-android-2.4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0be8ac9c669ca43ba2dbd9e15aa86d41\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0be8ac9c669ca43ba2dbd9e15aa86d41\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\b4fcf06f6b9f779f6c9a7ea99dbf10be\glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\b4fcf06f6b9f779f6c9a7ea99dbf10be\glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:28:5-73:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:28:5-73:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\672f71e6507f883d1f09895100a41f57\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\672f71e6507f883d1f09895100a41f57\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a548167e34776d1d111cd3a4f59c7b75\plumber-android-2.4\AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a548167e34776d1d111cd3a4f59c7b75\plumber-android-2.4\AndroidManifest.xml:7:5-13:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0acf24f2ff597dcffaf8b2af7821f8ec\gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0acf24f2ff597dcffaf8b2af7821f8ec\gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:14:9-68
+	android:usesCleartextTraffic
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:9:9-40
+activity#com.aliqin.mytel.login.OneKeyLoginActivity
+ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:16:9-23:20
+	android:screenOrientation
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:17:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:21:27-74
+activity#com.aliqin.mytel.auth.NumberAuthActivity
+ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:33:9-35:57
+	android:screenOrientation
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:35:13-55
+	android:configChanges
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:34:13-74
+	android:name
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:33:19-58
+activity#com.aliqin.mytel.auth.PersonActivity
+ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:37:9-39:57
+	android:screenOrientation
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:39:13-55
+	android:configChanges
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:38:13-74
+	android:name
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:37:19-54
+activity#com.aliqin.mytel.MessageActivity
+ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:42:9-44:57
+	android:screenOrientation
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:44:13-55
+	android:configChanges
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:43:13-74
+	android:name
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:42:19-50
+activity#com.mobile.auth.gatewayauth.LoginAuthActivity
+ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:47:9-53:62
+	android:screenOrientation
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:52:13-47
+	android:launchMode
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:51:13-43
+	android:exported
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:50:13-37
+	android:configChanges
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:49:13-74
+	android:theme
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:53:13-59
+	android:name
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:48:13-73
+activity#com.mobile.auth.gatewayauth.activity.AuthWebVeiwActivity
+ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:55:9-60:50
+	android:screenOrientation
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:60:13-47
+	android:launchMode
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:59:13-43
+	android:exported
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:58:13-37
+	android:configChanges
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:57:13-74
+	android:name
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml:56:13-84
+uses-sdk
+INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a86b91a1f6cc9922f83f3945217158b6\leakcanary-android-2.4\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a86b91a1f6cc9922f83f3945217158b6\leakcanary-android-2.4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\888\.gradle\caches\transforms-2\files-2.1\5d48e51bc97ba8657eabe5d8ea43411b\multidex-1.0.2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\888\.gradle\caches\transforms-2\files-2.1\5d48e51bc97ba8657eabe5d8ea43411b\multidex-1.0.2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0cdf82a0b5673c06e4c99214b3f0921f\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0cdf82a0b5673c06e4c99214b3f0921f\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0be8ac9c669ca43ba2dbd9e15aa86d41\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0be8ac9c669ca43ba2dbd9e15aa86d41\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [:alicomphonenumberauthsdk-log-online-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\9ffed9cd743d8e6bfc31291861748955\alicomphonenumberauthsdk-log-online-release\AndroidManifest.xml:7:5-9:41
+MERGED from [:alicomphonenumberauthsdk-log-online-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\9ffed9cd743d8e6bfc31291861748955\alicomphonenumberauthsdk-log-online-release\AndroidManifest.xml:7:5-9:41
+MERGED from [:crashshield-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\5002e10d435a5955dc9f81716564b1a7\crashshield-release\AndroidManifest.xml:7:5-9:41
+MERGED from [:crashshield-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\5002e10d435a5955dc9f81716564b1a7\crashshield-release\AndroidManifest.xml:7:5-9:41
+MERGED from [:operation-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\08b1fead0fe6c830f82ebde766dd3c1c\operation-release\AndroidManifest.xml:7:5-9:41
+MERGED from [:operation-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\08b1fead0fe6c830f82ebde766dd3c1c\operation-release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ucweb.wpk:crashsdk:3.2.2.2] C:\Users\888\.gradle\caches\transforms-2\files-2.1\d5ef024eb8eb1415c23a6d9ad759a39e\crashsdk-3.2.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.ucweb.wpk:crashsdk:3.2.2.2] C:\Users\888\.gradle\caches\transforms-2\files-2.1\d5ef024eb8eb1415c23a6d9ad759a39e\crashsdk-3.2.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\b4fcf06f6b9f779f6c9a7ea99dbf10be\glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\b4fcf06f6b9f779f6c9a7ea99dbf10be\glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\89b72b090f1de322401e85355ece21ca\leakcanary-object-watcher-android-androidx-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\89b72b090f1de322401e85355ece21ca\leakcanary-object-watcher-android-androidx-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\fe0a8c11188792d715ad8d6ca1aa5222\leakcanary-object-watcher-android-support-fragments-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\fe0a8c11188792d715ad8d6ca1aa5222\leakcanary-object-watcher-android-support-fragments-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\672f71e6507f883d1f09895100a41f57\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\672f71e6507f883d1f09895100a41f57\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a548167e34776d1d111cd3a4f59c7b75\plumber-android-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a548167e34776d1d111cd3a4f59c7b75\plumber-android-2.4\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\ce0e94777a572c155dae5576fd0fe8c2\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\ce0e94777a572c155dae5576fd0fe8c2\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\4c4811b5ef6dc5e976d98609b035e43f\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\4c4811b5ef6dc5e976d98609b035e43f\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\e403f59865783db2d1cd00fefe861ac3\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\e403f59865783db2d1cd00fefe861ac3\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\4ef67621d97da07958166ef80ea8a2e2\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\4ef67621d97da07958166ef80ea8a2e2\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\cf563e5e101f8a565825eae0de9b4200\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\cf563e5e101f8a565825eae0de9b4200\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0acf24f2ff597dcffaf8b2af7821f8ec\gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0acf24f2ff597dcffaf8b2af7821f8ec\gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\14f32e59bfb41237fda3f005ba4b7226\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\888\.gradle\caches\transforms-2\files-2.1\14f32e59bfb41237fda3f005ba4b7226\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0df9a8828126323eff8aa0a10b68140b\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\0df9a8828126323eff8aa0a10b68140b\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\49bb1424736ce212db233f6a03c8fa05\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\49bb1424736ce212db233f6a03c8fa05\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\80a88dae8353adc11fba685d87eecd7a\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\80a88dae8353adc11fba685d87eecd7a\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\2c30710b90705ce63946384115511537\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\888\.gradle\caches\transforms-2\files-2.1\2c30710b90705ce63946384115511537\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+		INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+		ADDED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+		INJECTED from G:\SDK\PhoneNumberAuthSDK_Android_V2.10.1_Release\PhoneNumberAuthDemo-V2.10.1\demo\src\main\AndroidManifest.xml
+service#leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a86b91a1f6cc9922f83f3945217158b6\leakcanary-android-2.4\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a86b91a1f6cc9922f83f3945217158b6\leakcanary-android-2.4\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a86b91a1f6cc9922f83f3945217158b6\leakcanary-android-2.4\AndroidManifest.xml:24:13-67
+uses-permission#android.permission.INTERNET
+ADDED from [:alicomphonenumberauthsdk-log-online-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\9ffed9cd743d8e6bfc31291861748955\alicomphonenumberauthsdk-log-online-release\AndroidManifest.xml:11:5-67
+MERGED from [:crashshield-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\5002e10d435a5955dc9f81716564b1a7\crashshield-release\AndroidManifest.xml:11:5-67
+MERGED from [:crashshield-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\5002e10d435a5955dc9f81716564b1a7\crashshield-release\AndroidManifest.xml:11:5-67
+MERGED from [:operation-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\08b1fead0fe6c830f82ebde766dd3c1c\operation-release\AndroidManifest.xml:11:5-67
+MERGED from [:operation-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\08b1fead0fe6c830f82ebde766dd3c1c\operation-release\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:alicomphonenumberauthsdk-log-online-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\9ffed9cd743d8e6bfc31291861748955\alicomphonenumberauthsdk-log-online-release\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:alicomphonenumberauthsdk-log-online-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\9ffed9cd743d8e6bfc31291861748955\alicomphonenumberauthsdk-log-online-release\AndroidManifest.xml:12:5-76
+MERGED from [:operation-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\08b1fead0fe6c830f82ebde766dd3c1c\operation-release\AndroidManifest.xml:13:5-76
+MERGED from [:operation-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\08b1fead0fe6c830f82ebde766dd3c1c\operation-release\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [:alicomphonenumberauthsdk-log-online-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\9ffed9cd743d8e6bfc31291861748955\alicomphonenumberauthsdk-log-online-release\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:alicomphonenumberauthsdk-log-online-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\9ffed9cd743d8e6bfc31291861748955\alicomphonenumberauthsdk-log-online-release\AndroidManifest.xml:13:5-79
+MERGED from [:crashshield-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\5002e10d435a5955dc9f81716564b1a7\crashshield-release\AndroidManifest.xml:12:5-79
+MERGED from [:crashshield-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\5002e10d435a5955dc9f81716564b1a7\crashshield-release\AndroidManifest.xml:12:5-79
+MERGED from [:operation-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\08b1fead0fe6c830f82ebde766dd3c1c\operation-release\AndroidManifest.xml:14:5-79
+MERGED from [:operation-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\08b1fead0fe6c830f82ebde766dd3c1c\operation-release\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [:alicomphonenumberauthsdk-log-online-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\9ffed9cd743d8e6bfc31291861748955\alicomphonenumberauthsdk-log-online-release\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [:alicomphonenumberauthsdk-log-online-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\9ffed9cd743d8e6bfc31291861748955\alicomphonenumberauthsdk-log-online-release\AndroidManifest.xml:14:5-79
+MERGED from [:operation-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\08b1fead0fe6c830f82ebde766dd3c1c\operation-release\AndroidManifest.xml:15:5-79
+MERGED from [:operation-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\08b1fead0fe6c830f82ebde766dd3c1c\operation-release\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [:alicomphonenumberauthsdk-log-online-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\9ffed9cd743d8e6bfc31291861748955\alicomphonenumberauthsdk-log-online-release\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:operation-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\08b1fead0fe6c830f82ebde766dd3c1c\operation-release\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from [:operation-release:] C:\Users\888\.gradle\caches\transforms-2\files-2.1\08b1fead0fe6c830f82ebde766dd3c1c\operation-release\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:26:22-74
+provider#leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:29:9-37:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:33:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:31:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:30:13-70
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:34:13-36:66
+	android:resource
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:36:17-63
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:35:17-67
+activity#leakcanary.internal.activity.LeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:39:9-44:66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:42:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:41:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:44:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:43:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:40:13-69
+activity-alias#leakcanary.internal.activity.LeakLauncherActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:46:9-62:26
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:49:13-66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:51:13-71
+	android:targetActivity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:52:13-79
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:50:13-52
+	android:banner
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:48:13-59
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:54:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:53:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:47:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:55:13-61:29
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:60:17-86
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:60:27-83
+activity#leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:64:9-70:68
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:68:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:66:13-46
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:67:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:70:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:69:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:65:13-80
+receiver#leakcanary.internal.NotificationReceiver
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:72:9-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\6379a7bd13997d20ac0de03c0ef5bc20\leakcanary-android-core-2.4\AndroidManifest.xml:72:19-74
+provider#leakcanary.internal.AppWatcherInstaller$MainProcess
+ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\672f71e6507f883d1f09895100a41f57\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\672f71e6507f883d1f09895100a41f57\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\672f71e6507f883d1f09895100a41f57\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\672f71e6507f883d1f09895100a41f57\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\672f71e6507f883d1f09895100a41f57\leakcanary-object-watcher-android-2.4\AndroidManifest.xml:9:13-79
+provider#leakcanary.internal.PlumberInstaller
+ADDED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a548167e34776d1d111cd3a4f59c7b75\plumber-android-2.4\AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a548167e34776d1d111cd3a4f59c7b75\plumber-android-2.4\AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a548167e34776d1d111cd3a4f59c7b75\plumber-android-2.4\AndroidManifest.xml:10:13-69
+	android:exported
+		ADDED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a548167e34776d1d111cd3a4f59c7b75\plumber-android-2.4\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:plumber-android:2.4] C:\Users\888\.gradle\caches\transforms-2\files-2.1\a548167e34776d1d111cd3a4f59c7b75\plumber-android-2.4\AndroidManifest.xml:9:13-64

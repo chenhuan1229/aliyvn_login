@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :crashshield-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5002e10d435a5955dc9f81716564b1a7/crashshield-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5002e10d435a5955dc9f81716564b1a7/crashshield-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
